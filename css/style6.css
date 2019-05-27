@@ -1,0 +1,83 @@
+@media (min-width: 360px) and (orientation: portrait) {
+  .wrapper h2 {
+    font-size: 27px;
+  }
+  .wrapper h3 {
+    font-size: 23px;
+  }
+}
+
+@media (min-width: 411px) and (orientation: portrait) {
+  .wrapper h2 {
+    font-size: 30px;
+  }
+  .wrapper h3 {
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 768px) and (orientation: portrait) {
+  .wrapper h2 {
+    font-size: 45px;
+  }
+  .wrapper h3 {
+    font-size: 35px;
+  }
+  .wrapper button {
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: portrait) {
+  .wrapper h2 {
+    font-size: 50px;
+  }
+  .wrapper h3 {
+    font-size: 35px;
+  }
+  .wrapper button {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 480px) and (orientation: landscape) {
+  main h2 {
+    font-size: 30px;
+  }
+  main h3 {
+    font-size: 25px;
+  }
+  main button {
+    margin-bottom: 10%;
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 640px) and (orientation: landscape) {
+  .wrapper h2 {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 667px) and (orientation: landscape) {
+  .wrapper h3 {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: landscape) {
+  nav a {
+    padding: 20px 35px;
+    font-size: 30px;
+  }
+  .wrapper h2 {
+    font-size: 50px;
+  }
+  .wrapper h3 {
+    font-size: 35px;
+  }
+  .wrapper button {
+    font-size: 30px;
+  }
+}
+/*# sourceMappingURL=style6.css.map */

@@ -1,0 +1,181 @@
+@media (min-width: 360px) and (orientation: portrait) {
+  header h1 {
+    top: 9%;
+    font-size: 35px;
+  }
+  nav a {
+    font-size: 22px;
+  }
+  main h2 {
+    font-size: 27px;
+  }
+}
+
+@media (min-width: 375px) and (orientation: portrait) {
+  header h1 {
+    top: 9%;
+  }
+  nav a {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 768px) and (orientation: portrait) {
+  header h1 {
+    top: 12%;
+    font-size: 75px;
+  }
+  nav a {
+    font-size: 40px;
+  }
+  main h2 {
+    font-size: 40px;
+  }
+  main .wrap {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  main .wrap div {
+    width: 50%;
+  }
+  main .wrap h3,
+  main .wrap p {
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: portrait) {
+  header h1 {
+    top: 13%;
+    font-size: 90px;
+  }
+  nav a {
+    padding: 30px 20px;
+    font-size: 45px;
+  }
+  main h2 {
+    font-size: 55px;
+  }
+  main button {
+    font-size: 30px;
+  }
+  main input,
+  main textarea {
+    width: 50%;
+    height: 20%;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 480px) and (orientation: landscape) {
+  header h1 {
+    top: 23%;
+    font-size: 47px;
+  }
+  nav a {
+    width: 33.33%;
+    padding: 12px 15px;
+    font-size: 22px;
+  }
+  main h2 {
+    font-size: 30px;
+  }
+  main button {
+    margin-bottom: 10%;
+  }
+}
+
+@media (min-width: 640px) and (orientation: landscape) {
+  header h1 {
+    top: 25%;
+    font-size: 60px;
+  }
+  nav a {
+    font-size: 27px;
+  }
+  main h2 {
+    font-size: 34px;
+  }
+}
+
+@media (min-width: 667px) and (orientation: landscape) {
+  nav a {
+    font-size: 25px;
+  }
+  main h2 {
+    font-size: 35px;
+  }
+  main .wrap {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  main .wrap div {
+    width: 50%;
+  }
+}
+
+@media (min-width: 812px) and (orientation: landscape) {
+  header h1 {
+    top: 30%;
+    font-size: 70px;
+  }
+  nav a {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 1024px) and (orientation: landscape) {
+  header h1 {
+    top: 22%;
+    font-size: 90px;
+  }
+  nav a {
+    font-size: 35px;
+  }
+  main h2 {
+    font-size: 55px;
+  }
+  main .wrap h3,
+  main .wrap p {
+    font-size: 25px;
+  }
+  main button {
+    font-size: 25px;
+  }
+  main input,
+  main textarea {
+    width: 50%;
+    height: 20%;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1366px) and (orientation: landscape) {
+  header h1 {
+    top: 25%;
+    font-size: 100px;
+  }
+  nav a {
+    padding: 20px 0;
+    font-size: 35px;
+  }
+  main h2 {
+    font-size: 50px;
+  }
+  main button {
+    font-size: 30px;
+  }
+  main input,
+  main textarea {
+    font-size: 25px;
+  }
+}
+/*# sourceMappingURL=style2.css.map */
